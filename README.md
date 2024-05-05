@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OFFLINELUFFY
+- 👋 Hi, I’m Priyanshu
 - 👀 I’m interested in anime ,bodybuilding and playing video games ...
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on 
